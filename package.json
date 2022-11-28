@@ -1,0 +1,27 @@
+{
+  "name": "react-admin-copy-clipboad-field",
+  "version": "1.0.0",
+  "description": "You can use this field, that has a button to copy to the clipboad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tasuku-Sasaki-lab/react-admin-copy-clipboad-field.git"
+  },
+  "keywords": [
+    "react-admin"
+  ],
+  "author": "Tasuku Sasaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasuku-Sasaki-lab/react-admin-copy-clipboad-field/issues"
+  },
+  "homepage": "https://github.com/Tasuku-Sasaki-lab/react-admin-copy-clipboad-field#readme",
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "classname": "0.0.0",
+    "react-copy-to-clipboard": "^5.1.0"
+  }
+}

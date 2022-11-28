@@ -1,0 +1,1 @@
+export {CopyToClipboard} from './copy--clipboard-filed'
